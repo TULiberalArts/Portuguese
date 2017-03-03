@@ -1,6 +1,20 @@
 ---
 title: Resources
-permalink: "/resources/"
+permalink: /resources/
 layout: page
+published: true
 ---
 
+Chair:
+
+Hiram Aldarondo
+427 Anderson Hall
+[(215) 204-1706](tel:2152041706)
+[haldaron@temple.edu](mailto:haldaron@temple.edu)
+
+Administrator:
+
+Michelle Pugliese
+429 Anderson Hall
+[(215) 204-5628](tel:2152045628)
+[pugliese@temple.edu](mailto:pugliese@temple.edu)
