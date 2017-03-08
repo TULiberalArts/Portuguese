@@ -5,6 +5,8 @@ layout: page
 published: true
 ---
 
+Our students attend graduate, law and medical schools; they enter public service through careers in public policy, international relations and education; and they utilize their language skills in the business and health sectors.
+
 ## Make Your Declaration
 ​
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
