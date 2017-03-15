@@ -1,10 +1,12 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate/"
+permalink: /undergraduate/
 layout: page
+published: true
 ---
-Students may begin their courses in Spanish and Portuguese at the elemental level where the instruction targets communication skills allowing students to use their second language even after one semester whilst preparing them for the demands of upper level courses. At the low intermediate level, dedicated courses in reading, writing and conversation enhance proficiency as students explore more deeply Hispanic culture. The diversity of courses at the intermediate level allows students to use their language skills to pursue particular interests. Survey courses cover topics such as Spanish or Spanish-American literature, film or culture while professional courses introduce students to relevant cultural practices and vocabulary in sectors such as health care or business. Students majoring in Spanish will polish their written and oral discourse in the writing intensive courses and the advanced level courses. In advanced level courses such as Spanish-English Contrasts, Hispanic Women Writers and Spanish Internship, students delve into their subject producing extended oral and written discourse thus preparing them for graduate study in any discipline and for their future careers.
+
+The Portuguese Minor is designed for students who wish to develop strong language and professional skills and a critical awareness of Brazilian, Portuguese, and Luso-African cultures.  Today Brazil is Latin America’s largest and fastest growing economy and optimism for its long-term future is widely shared.  With the recent 2014 World Cup and 2016 Olympics, student demand for Brazilian language and culture courses has seen a sizeable increase.  Whether students’ interest lie in Latin American studies, visual arts, music, literature, digital poetry, international business, or the African diaspora, the Portuguese Minor is globally minded.  We believe undergraduate Spanish students can quickly learn Portuguese and increase their job credentials.  Our minor provides excellent language instruction through a variety of cultural contexts. 
 
 ## Academic Offerings
 
-- [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/) 
+- [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
