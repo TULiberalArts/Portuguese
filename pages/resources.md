@@ -1,27 +1,28 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
-Hiram Aldarondo
-427 Anderson Hall
-[(215) 204-1706](tel:2152041706)
-[haldaron@temple.edu](mailto:haldaron@temple.edu)
+Hiram Aldarondo<br>
+427 Anderson Hall<br>
+[(215) 204-1706](tel:2152041706)<br>
+[haldaron@temple.edu](mailto:haldaron@temple.edu)<br>
 
-Portuguese Advisor: 
+**Portuguese Advisor:** 
 
-Adam Joseph Shellhorse, Portuguese Minor and Brazilian Studies Advisor
-440 Anderson Hall
-[(215) 204-8285](tel:2152048285)
-[aj.shellhorse@temple.edu](mailto:aj.shellhorse@temple.edu)
+Adam Joseph Shellhorse, Portuguese Minor and Brazilian Studies Advisor<br>
+440 Anderson Hall<br>
+[(215) 204-8285](tel:2152048285)<br>
+[aj.shellhorse@temple.edu](mailto:aj.shellhorse@temple.edu)<br>
 
-Administrator:
+**Administrator:**
 
-Michelle Pugliese
-429 Anderson Hall
-[(215) 204-5628](tel:2152045628)
-[pugliese@temple.edu](mailto:pugliese@temple.edu)
+Michelle Pugliese<br>
+429 Anderson Hall<br>
+[(215) 204-5628](tel:2152045628)<br>
+[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
