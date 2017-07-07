@@ -6,31 +6,27 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
-
-  <hr>
-
-  **Chair:**
-  Hiram Aldarondo <br/>
-  427 Anderson Hall <br/>
-  [(215) 204-1706](tel:2152041706) <br/>
-  [haldaron@temple.edu](mailto:haldaron@temple.edu) <br/>
-
-  <hr>
-
-  **Portuguese Advisor:**
-  Adam Joseph Shellhorse, Portuguese Minor and Brazilian Studies Advisor <br/>
-  440 Anderson Hall <br/>
-  [(215) 204-8285](tel:2152048285) <br/>
-  [aj.shellhorse@temple.edu](mailto:aj.shellhorse@temple.edu) <br/>
-
-  <hr>
-
-  **Administrator:**
-  Michelle Pugliese <br/>
-  429 Anderson Hall <br/>
-  [(215) 204-5628](tel:2152045628) <br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
+  **Chair:**  
+   Hiram Aldarondo  
+   427 Anderson Hall  
+   [(215) 204-0134](tel:2152040134)  
+   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
+   
+   ___
+   
+   **Portuguese Advisor:**  
+   Adam Joseph Shellhorse, Portuguese Minor and Brazilian Studies Advisor  
+   440 Anderson Hall  
+   [(215) 204-8285](tel:2152048285)  
+   [aj.shellhorse@temple.edu](mailto:aj.shellhorse@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)   
 ---
 
 ## Minor In Portuguese
