@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Hiram Aldarondo  
    427 Anderson Hall  
@@ -26,7 +26,7 @@ sidebar-content: > #
    Michelle Pugliese  
    429 Anderson Hall   
    [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)   
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)
 ---
 
 ## Minor In Portuguese
@@ -35,6 +35,8 @@ Six courses (18-20 credits) numbered 1000-4999 are required.  The distribution o
 A maximum of two Portuguese courses at the 1000 level	0-8
 A minimum of four Portuguese courses at the 2000 level or higher 	12
 Minors are awarded only at the time of completion of the bachelor's degree and cannot be awarded either as a stand-alone program of study or after completion of the first bachelor's degree.
+
+When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
 
 **Academic Offerings**
 
