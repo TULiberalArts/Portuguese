@@ -10,7 +10,7 @@ published: true
 ## Latin American Studies Semester (LASS)
 The Latin American Studies Semester (LASS) has been offered every spring semester since 1973. This unique language immersion program is designed to provide an intensive experience in the study of the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester hours credit, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/NIBBE9gBkUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div align="center"><iframe width="800" height="400" src="https://www.youtube.com/embed/NIBBE9gBkUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 - **NEED JOTFORM APPLICATION URL**
 
