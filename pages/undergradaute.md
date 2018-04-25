@@ -30,7 +30,7 @@ sidebar-content: |
 ---
 
 ## Minor In Portuguese
-Six courses (18-20 credits) numbered 1000-4999 are required.  The distribution of courses depends on the individual student's proficiency level.  See the faculty advisor in Portuguese for more information.
+Six courses (18-20 credits) numbered 1000-4999 are required. The distribution of courses depends on the individual student's proficiency level.  See the faculty advisor in Portuguese for more information.
 - A maximum of two Portuguese courses at the 1000 level	0-8
 - A minimum of four Portuguese courses at the 2000 level or higher 	12
 - Minors are awarded only at the time of completion of the bachelor's degree and cannot be awarded either as a stand-alone program of study or after completion of the first bachelor's degree.
@@ -45,4 +45,4 @@ Six courses (18-20 credits) numbered 1000-4999 are required.  The distribution o
 
 - **Portuguese Conversation and Composition, TR, 11:00-12:20, TBA**: This course places emphasis on conversational Portuguese through cultural contexts: popular music, current events, soccer, movies, and literature.  A second important component is written Portuguese: students will learn to read and write in Portuguese.
 
-When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
