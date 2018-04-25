@@ -14,7 +14,7 @@ The Latin American Studies Semester (LASS) has been offered every spring semeste
 
 - **NEED JOTFORM APPLICATION URL**
 
-## Courses
+### Courses
 LASS courses combine the learning of the Spanish language with the study of the diverse cultures of Latin America. The program is an integration of several courses, totaling 17-semester hours credit, and must be taken as a package. Owing to both the credit-hour load and the semester’s objective: immersion in Spanish and Latin American Studies, no other courses may be taken. Students register for the following courses:
 
 - [Spanish 2098: Intensive Practice/Four Skills](http://bulletin.temple.edu/search/?P=SPAN%202098) – 9 credits.
@@ -29,27 +29,27 @@ High in the Andean mountain range, you’ll find the capital city of Quito. Quit
 
 The metro area fills the space between lush mountains (and a couple of volcanoes), creating a gorgeous setting for living and exploring. Quito provides many options for learning and entertainment, and students are encouraged to explore their interests – and develop new ones. This is a wonderful place for music, architecture, hiking, food, dancing, and sports.
 
-## Andean Center for Latin American Studies
+### Andean Center for Latin American Studies
 The Andean Center for Latin American Studies (ACLAS) is students’ home campus. For over 25 years, ACLAS has hosted U.S. university study abroad programs and supported students through intensive Spanish-language learning, homestay family experiences and travel throughout Ecuador.
 
-## Accomodations
+### Accomodations
 Living with host families in Quito allows students a truly immersive experience. These local families host one LASS student each for maximum cultural and language engagement. Students routinely rate the homestay experience as their favorite part of studying abroad.
 
 All housing offers glimpses of everyday life, with easy access to ACLAS and to city amenities. Homestays include three meals a day (except excursion days) and laundry. Every family has been carefully selected by ACLAS staff in order to ensure a comfortable, enjoyable living situation.
 
 - [Family Prefernce Form](https://form.jotform.com/pugliese/formulario-preferencias-familiares)
 
-## Cost
+### Cost
 The 17-semester hours credit program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration.  The fee covers the following: housing, meals, courses and trips in Ecuador. Students are responsible for separately purchasing their airline tickets and make their own arrangements.
 
-## Calendar
+### Calendar
 LASS Orientation – Wednesday, October 3rd, 2018 at 4pm 422 Anderson Hall
 
 Travel Dates for Spring 2019:
 - Departure – Wednesday, February 27, 2019
 - Return – Tuesday, March 19, 2019
 
-## Eligibility And Application Process
+### Eligibility And Application Process
 To be eligible, applicants must:
 
 - Have successfully completed 1001 or the equivalent (a minimum of one semester of university-level Spanish), although preference will be given to students that have completed 1002.
