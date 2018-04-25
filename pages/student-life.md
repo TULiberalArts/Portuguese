@@ -5,7 +5,29 @@ layout: page
 keywords: 
 description: >-
 published: true
+sidebar: true
+sidebar-content: |
+  **Director, Temple in Spain Programs (Spring and Summer) :**  
+   Jaime Durán  
+   437 Anderson Hall    
+   [jduran@temple.edu](mailto:jduran@temple.edu)  
+   
+   ___
+   
+   **Study Abroad Advisor for Non-Temple Programs:**  
+   Paul D. Toth  
+   441 Anderson Hall    
+   [ptoth@temple.edu](mailto:ptoth@temple.edu)  
+   
+   ___
+   
+   **Director, Latin American Studies Semester (LASS):**  
+   Hiram Aldarondo  
+   429 Anderson Hall     
+   [haldaron@temple.edu](mailto:haldaron@temple.edu)
 ---
+
+## Study Abroad 
 
 ## Latin American Studies Semester (LASS)
 The Latin American Studies Semester (LASS) has been offered every spring semester since 1973. This unique language immersion program is designed to provide an intensive experience in the study of the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester hours credit, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
@@ -63,3 +85,19 @@ To be eligible, applicants must:
 A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December.  No visa is necessary for US citizens.
 
 - **NEED JOTFORM APPLICATION URL**
+
+## Temple Spain Spring Semester Program
+![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}
+If you are committed to developing your Spanish language skills and understanding of Hispanic culture our semester study abroad programs offer an unparalleled opportunity for you. Our programs provide an immersive linguistic and cultural experience, combining in-class language instruction with a home stay and daily interaction with local citizens.
+
+Temple University’s spring semester program in Spain was developed in 2008 in response to the success of its existing summer session in Oviedo. Based at the University of Oviedo, the semester program is designed for students who are committed to furthering their Spanish language skills and understanding of Spanish culture. For more information visit [Temple in Spain Spring Semester](http://studyabroad.temple.edu/sites/temple-in-spain-spring-semester).
+
+## Temple Spain Summer Program
+![Brazil Study Abroad]({{site.baseurl}}/media/resized Temple Spain Summer Program.jpg){:.img-right}
+The Temple in Spain summer program is based at the University of Oviedo in the province of Asturias, a beautiful region of ocean, mountains and Roman ruins in northwest Spain. For more information visit [Temple in Spain Summer Session](http://studyabroad.temple.edu/sites/temple-in-spain-summer).
+
+## Brazil: Afro-Brazilian Culture And Popular Brazilian Music (Salvador, Bahia)
+![Brazil Study Abroad]({{site.baseurl}}/media/resized Study Abroad Brazil.jpg){:.img-right}
+Our summer study abroad programs allow you to use the world as your classroom. Students choose to study abroad during the summer for a variety of reasons. Many have academic requirements that do not allow them to spend an entire semester abroad. Some students want to improve their language skills, while others seek to experience daily life in another country. Many students participate in short-term summer programs early in their college education, and then spend a semester or year abroad as juniors or seniors.
+
+Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit [Temple Summer in Brazil](https://studyabroad.temple.edu/sites/temple-summer-in-brazil).
