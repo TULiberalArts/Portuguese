@@ -100,3 +100,10 @@ The Temple in Spain summer program is based at the University of Oviedo in the p
 Our summer study abroad programs allow you to use the world as your classroom. Students choose to study abroad during the summer for a variety of reasons. Many have academic requirements that do not allow them to spend an entire semester abroad. Some students want to improve their language skills, while others seek to experience daily life in another country. Many students participate in short-term summer programs early in their college education, and then spend a semester or year abroad as juniors or seniors.
 
 Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil- **BROKEN LINK**.
+
+## Graduate Students of Language at Temple (GSOLT)
+The purpose of Graduate Students of Language at Temple (GSOLT) is to connect students who study and are interested in language in order to form interdisciplinary networks for discussion and research. The organization organizes a conference each spring to showcase students’ research in language from a variety of viewpoints.
+
+GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held in order to plan the spring conference, upcoming workshops and discuss guest speakers. In workshops we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
+
+Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
