@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'faculty, spanish, portuguese'
 description: >- 
 published: true
 ---
