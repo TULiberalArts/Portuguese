@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >- 
-keywords: ''
+keywords: 'academic offerings, minor, latin america, brazil'
 feature: true
 feature-title: A Globally Minded Minor.
 feature-image: null
