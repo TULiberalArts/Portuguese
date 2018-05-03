@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
+keywords: 'minor, portuguese, courses'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
