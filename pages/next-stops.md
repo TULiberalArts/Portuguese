@@ -6,7 +6,9 @@ keywords: 'careers, apply, visit, transfer'
 description: >-
 published: true
 ---
+College of Liberal Arts Portuguese graduates go on to exciting [career and graduate school](#careers-and-graduate-school) opportunities, and you can be one of them. [Make your declaration](#make-your-declaration) today, come [visit us](visit-us), view your [transfer options](#thinking-of-transferring), see our application [deadlines](#deadlines) and [apply](#apply) to get started.
 
+## Careers and Graduate School
 Our students attend graduate, law and medical schools; they enter public service through careers in public policy, international relations and education; and they utilize their language skills in the business and health sectors.
 
 ## Make Your Declaration
