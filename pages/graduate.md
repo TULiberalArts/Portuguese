@@ -1,8 +1,11 @@
 ---
-title: Graduate
-permalink: "/graduate/"
+# global predefined variables
 layout: page
-keywords: ''
-description: >- 
+permalink: "/graduate/"
 published: false
+# meta-data variables
+title: Graduate
+keywords: ''
+description: >-
+# custom variables
 ---

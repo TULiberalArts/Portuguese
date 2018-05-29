@@ -1,9 +1,12 @@
 ---
-title: Resources
-meta-keywords: 3 or 4 unique for this page
+# global predefined variables
+layout: tla_page
 permalink: /resources/
-layout: page
 published: false
+# meta-data variables
+title: Resources
+keywords: 3 or 4 unique for this page
+# custom variables
 ---
 
 **Chair:**
@@ -13,7 +16,7 @@ Hiram Aldarondo<br>
 [(215) 204-1706](tel:2152041706)<br>
 [haldaron@temple.edu](mailto:haldaron@temple.edu)<br>
 
-**Portuguese Advisor:** 
+**Portuguese Advisor:**
 
 Adam Joseph Shellhorse, Portuguese Minor and Brazilian Studies Advisor<br>
 440 Anderson Hall<br>

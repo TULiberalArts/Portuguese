@@ -1,10 +1,13 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
+published: true
+# meta-data variables
+title: Next Stops
 keywords: 'careers, apply, visit, transfer'
 description: >-
-published: true
+# custom variables
 ---
 College of Liberal Arts Portuguese graduates go on to exciting [career and graduate school](#careers-and-graduate-school) opportunities, and you can be one of them. [Make your declaration](#make-your-declaration) today, come [visit us](visit-us), view your [transfer options](#thinking-of-transferring), see our application [deadlines](#deadlines) and [apply](#apply) to get started.
 
@@ -17,7 +20,7 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu)
 
 ## Visit Us!
-The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit. 
+The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit.
 If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
 ## Thinking Of Transferring?
