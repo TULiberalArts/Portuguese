@@ -13,8 +13,11 @@ feature-body: >-
    through a variety of cultural contexts. 
 published: true
 ---
+At the College of Liberal Arts, we believe undergraduate Spanish students can quickly learn Portuguese and increase their job credentials. Our minor provides you with excellent language instruction through a variety of cultural contexts.
 
-The Portuguese Minor is designed for students who wish to develop strong language and professional skills and a critical awareness of Brazilian, Portuguese and Luso-African cultures. Today Brazil is Latin America’s largest and fastest growing economy and optimism for its long-term future is widely shared. With the recent 2014 World Cup and 2016 Olympics, student demand for Brazilian language and culture courses has seen a sizeable increase. Whether students’ interest lie in Latin American studies, visual arts, music, literature, digital poetry, international business or the African diaspora, the Portuguese Minor is globally minded.
+The Portuguese minor helps students develop strong language and professional skills and a critical awareness of Brazilian, Portuguese and Luso-African cultures. Today, Brazil is Latin America’s largest and fastest-growing economy and optimism for its long-term future is widely shared. With the recent 2014 World Cup and 2016 Olympics, student demand for Brazilian language and culture courses has seen a sizeable increase. 
+
+Whether your interests lie in Latin American studies, visual arts, music, literature, digital poetry, international business or the African diaspora, the Portuguese minor is the globally minded program you’re looking for.
 
 ## Academic Offerings
 - [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
