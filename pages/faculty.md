@@ -5,7 +5,8 @@ permalink: /faculty/
 published: true
 # meta-data variables
 title: Faculty
-keywords: 'faculty, spanish, portuguese'
 description: >-
+keywords: 'faculty, spanish, portuguese'
 # custom variables
+sidebar: false
 ---
