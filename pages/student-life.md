@@ -1,33 +1,15 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-keywords: 'study abroad, latin american studies semester, application, courses, spain, GSOLT'
 description: >-
+keywords: 'study abroad, latin american studies semester, application, courses, spain, GSOLT'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Director, Temple in Spain Programs (Spring and Summer) :**  
-   Jaime Durán  
-   437 Anderson Hall    
-   [jduran@temple.edu](mailto:jduran@temple.edu)  
-   
-   ___
-   
-   **Study Abroad Advisor for Non-Temple Programs:**  
-   Paul D. Toth  
-   441 Anderson Hall    
-   [ptoth@temple.edu](mailto:ptoth@temple.edu)  
-   
-   ___
-   
-   **Director, Latin American Studies Semester (LASS):**  
-   Hiram Aldarondo  
-   429 Anderson Hall     
-   [haldaron@temple.edu](mailto:haldaron@temple.edu)
+sidebar_content: sidebars/student-life.html
 ---
 Hundreds of millions of people speak Spanish in Latin America and Spain—isn’t it time you got out there and met some of them? Portuguese minor students can [study abroad](#study-abroad) through the Latin American Studies Semester and visit [Ecuador](#about-quito-ecuador); they can travel to Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-program) semesters; and/or spend a summer [studying in Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia). Students are encouraged to take advantage of these opportunities and to join the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
 
