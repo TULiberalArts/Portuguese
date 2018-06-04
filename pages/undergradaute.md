@@ -6,6 +6,7 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Earn your minor in Portuguese at Temple University, and explore your course options in the College of Liberal Arts.
 keywords: 'minor, portuguese, courses'
 # custom variables
 sidebar: true
