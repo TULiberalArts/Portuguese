@@ -8,6 +8,7 @@ title: Home
 description: >-
 keywords: 'academic offerings, minor, latin america, brazil'
 # custom variables
+sidebar: false
 feature: true
 feature-title: A Globally Minded Minor.
 feature-image: null
