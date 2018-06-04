@@ -1,38 +1,16 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Undergraduate
-keywords: 'minor, portuguese, courses'
 description: >-
+keywords: 'minor, portuguese, courses'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Hiram Aldarondo  
-   427 Anderson Hall  
-   [(215) 204-0134](tel:2152040134)  
-   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
-   
-   ___
-   
-   **Portuguese Advisor:**  
-   Adam Joseph Shellhorse, Portuguese Minor and Brazilian Studies Advisor  
-   440 Anderson Hall  
-   [(215) 204-8285](tel:2152048285)  
-   [aj.shellhorse@temple.edu](mailto:aj.shellhorse@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
-
 ## Minor In Portuguese
 Six courses (18-20 credits) numbered 1000-4999 are required. The distribution of courses depends on the individual student's proficiency level.  See the faculty advisor in Portuguese for more information.
 - A maximum of two Portuguese courses at the 1000 level	0-8
