@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Study abroad in Ecuador or Brazil through Latin American Studies Semester in the College of
+  Liberal Arts, and join the Graduate Students of Language at Temple University.
 keywords: 'study abroad, latin american studies semester, application, courses, spain, GSOLT'
 # custom variables
 sidebar: true
