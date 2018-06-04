@@ -7,6 +7,8 @@ published: true
 title: Next Stops
 keywords: 'careers, apply, visit, transfer'
 description: >-
+  See your career and graduate school possibilities made possible with a degree in Portuguese from Temple University’s 
+  College of Liberal Arts. Make your declaration, visit us, view transfer options, see application deadlines, and apply!
 # custom variables
 ---
 College of Liberal Arts Portuguese graduates go on to exciting [career and graduate school](#careers-and-graduate-school) opportunities, and you can be one of them. [Make your declaration](#make-your-declaration) today, come [visit us](visit-us), view your [transfer options](#thinking-of-transferring), see our application [deadlines](#deadlines) and [apply](#apply) to get started.
