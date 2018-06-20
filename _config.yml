@@ -5,6 +5,8 @@ title: Portuguese
 baseurl: /portuguese
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/portuguese
 
 
 # Program Information
