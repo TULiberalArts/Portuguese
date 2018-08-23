@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /student-life/
+permalink: /study-abroad/
 published: true
 # meta-data variables
-title: Student Life
+title: Study Abroad
 description: >-
   Study abroad in Brazil through Latin American Studies Semester in the College of
   Liberal Arts, and join the Graduate Students of Language at Temple University.
@@ -14,16 +14,11 @@ sidebar: true
 sidebar_content: sidebars/student-life.html
 ---
 
-## Study Abroad
-
 Hundreds of millions of people speak Spanish in Latin America and Spain—isn’t it time you got out there and met some of them? Portuguese minor students can spend a summer [studying in Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia).
-___  
 
 <div class="video-container">
-  <iframe width="560" height="315"src="https://www.youtube.com/embed/NIBBE9gBkUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-  
-___  
 
 ### Courses
 LASS courses combine the learning of the Spanish language with the study of the diverse cultures of Latin America. The program is an integration of several courses, totaling 17-semester hours credit, and must be taken as a package. Owing to both the credit-hour load and the semester’s objective: immersion in Spanish and Latin American Studies, no other courses may be taken. Students register for the following courses:
