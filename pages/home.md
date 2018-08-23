@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-   Join a globally minded program: study Portuguese in the College of Liberal Arts at Temple 
+   Join a globally minded program: study Portuguese in the College of Liberal Arts at Temple
    University. View our academic offerings and learn more about our minor.
 keywords: 'academic offerings, minor, latin america, brazil'
 # custom variables
@@ -27,29 +27,3 @@ Whether your interests lie in Latin American studies, visual arts, music, litera
 
 ## Academic Offerings
 - [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
-
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title=" "
-    content=" "
-    image=""
-    button-link=" "
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title=" "
-      content=" "
-      image=""
-      button-link=" "
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title=" "
-        content=" "
-        image=""
-        button-link=" "
-        button-text="Learn More" %}
-      </div>
-</div>
