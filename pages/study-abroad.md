@@ -13,12 +13,13 @@ keywords: 'study abroad, latin american studies semester, application, courses, 
 sidebar: true
 sidebar_content: sidebars/student-life.html
 ---
-
 Hundreds of millions of people speak Spanish in Latin America and Spain—isn’t it time you got out there and met some of them? Portuguese minor students can spend a summer [studying in Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia).
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+___
 
 ## Brazil: Afro-Brazilian Culture And Popular Brazilian Music (Salvador, Bahia)
 ![Brazil Study Abroad]({{site.baseurl}}/media/resized Study Abroad Brazil.jpg){:.img-right}
