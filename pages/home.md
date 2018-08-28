@@ -10,6 +10,7 @@ description: >-
    University. View our academic offerings and learn more about our minor.
 keywords: 'academic offerings, minor, latin america, brazil'
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
 feature-title: A Globally Minded Minor.
