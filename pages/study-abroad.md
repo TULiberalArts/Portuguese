@@ -11,7 +11,7 @@ description: >-
 keywords: 'study abroad, latin american studies semester, application, courses, Spain'
 # custom variables
 sidebar: true
-sidebar_content: sidebars/student-life.html
+sidebar_content: sidebars/study-abroad.html
 ---
 Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering spending a summer [studying in Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia) or enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass).
 
