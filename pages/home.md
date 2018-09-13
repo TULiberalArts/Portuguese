@@ -28,3 +28,5 @@ Whether your interests lie in Latin American studies, visual arts, music, litera
 
 ## Academic Offerings
 - [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
+
+___
