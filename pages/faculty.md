@@ -9,5 +9,5 @@ description: >-
   Meet our faculty in the Portuguese department of Temple University’s College of Liberal Arts!
 keywords: 'faculty, spanish, portuguese'
 # custom variables
-sidebar: false
+
 ---

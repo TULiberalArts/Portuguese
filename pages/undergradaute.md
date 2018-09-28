@@ -9,8 +9,8 @@ description: >-
   Earn your minor in Portuguese at Temple University, and explore your course options in the College of Liberal Arts.
 keywords: 'minor, portuguese, courses'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 ## Minor In Portuguese
 Six courses (18-20 credits) numbered 1000-4999 are required. The distribution of courses depends on the individual student's proficiency level.  See the faculty advisor in Portuguese for more information.
