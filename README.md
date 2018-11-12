@@ -7,7 +7,7 @@ Portuguese is statically generated with [Jekyll](https://jekyllrb.com) and hoste
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/portuguese/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/portuguese/ |
 
 ## Content Structure
 
