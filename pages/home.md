@@ -11,7 +11,7 @@ description: >-
 keywords: 'academic offerings, minor, latin america, brazil'
 # custom variables
 feature: true
-feature-image: null 
+feature-image: 
 feature-title: A Globally Minded Minor: Focusing on Brazil, Portuguese, the Lusophone World, and
 increasing the credentials of Spanish speakers.
 promotion-table: true
