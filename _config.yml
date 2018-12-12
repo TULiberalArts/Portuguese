@@ -6,7 +6,7 @@ baseurl: /portuguese
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 # url spits sitemap
-url: https://www.cla.temple.edu/portuguese
+url: 
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
