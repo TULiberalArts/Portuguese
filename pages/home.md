@@ -11,20 +11,12 @@ description: >-
 keywords: 'academic offerings, minor, latin america, brazil'
 # custom variables
 promotion-table: true
-
 feature: true
-feature-title: A Globally Minded Minor.
+feature-title: A Globally Minded Minor: Focusing on Brazil, Portuguese, the Lusophone World, and increasing the credentials of Spanish speakers.
 feature-image: null
 feature-body: >-
-   We believe undergraduate Spanish students can quickly learn Portuguese and
-   increase their job credentials. Our minor provides excellent language instruction
-   through a variety of cultural contexts.
 ---
-At the College of Liberal Arts, we believe undergraduate Spanish students can quickly learn Portuguese and increase their job credentials. Our minor provides you with excellent language instruction through a variety of cultural contexts.
-
-The Portuguese minor helps students develop strong language and professional skills and a critical awareness of Brazilian, Portuguese and Luso-African cultures. Today, Brazil is Latin America’s largest and fastest-growing economy and optimism for its long-term future is widely shared. With the recent 2014 World Cup and 2016 Olympics, student demand for Brazilian language and culture courses has seen a sizeable increase.
-
-Whether your interests lie in Latin American studies, visual arts, music, literature, digital poetry, international business or the African diaspora, the Portuguese minor is the globally minded program you’re looking for.
+The Portuguese Minor is designed for students with two principle goals in mind: for students who wish to develop strong language and professional skills, and a critical awareness of Brazilian, Portuguese and Luso-African cultures. Today Brazil constitutes Latin America’s largest and fastest growing economy. With the World Cup (2014) and Olympics (2016), student demand for Brazilian language and culture courses at Temple and Universities across the nation has seen a sizeable increase. Within the past decade, Philadelphia itself has seen a large Brazilian population flock to the Northeast of the city, establishing a community of over 15,000 with flourishing local businesses.  There is a clear need for Portuguese speakers in the United States. Whether students' interests lie in Latin American Studies, visual arts, music, media, literature, international business, foreign relations, or the African diaspora, the Portuguese Minor is globally minded.  We believe undergraduate Spanish students can quickly learn Portuguese and increase their job credentials. Finally, our Minor provides excellent language instruction through a variety of cultural contexts. Bem-vindos!
 
 ## Academic Offerings
 - [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
