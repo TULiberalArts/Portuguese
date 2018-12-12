@@ -21,3 +21,5 @@ Six courses (18-20 credits) numbered 1000-4999 are required. The distribution of
 - Students may substitute [PORT 1021 Portuguese for Spanish Speakers](https://bulletin.temple.edu/search/?P=PORT%201021) or intermediate/advanced level courses for the beginning [PORT 1001](https://bulletin.temple.edu/search/?P=PORT%201001) and [PORT 1002](https://bulletin.temple.edu/search/?P=PORT%201002). 
 - The minor in Portuguese requires 6 courses (18 credits minimum) in Portuguese. 
 - **Note:** For the Spanish Major, up to two Portuguese courses may be taken in place of two Spanish 2000/3000-level courses.
+
+Learn more about the [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
