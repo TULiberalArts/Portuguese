@@ -13,7 +13,9 @@ keywords: 'study abroad, latin american studies semester, application, courses, 
 
 sidebar: sidebars/study-abroad.html
 ---
-Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering spending a summer [studying in Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia) or enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass).
+Portuguese and Spanish students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Lusophone and Spanish-speaking worlds! Consider spending a summer studying in Brazil, Africa, Portugal, or enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass).
+
+Additionally, [The Office of Education Abroad](https://studyabroad.temple.edu/) offers students an exciting array of opportunities to study abroad in Brazil and the Lusophone world by approved university programs. 
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
