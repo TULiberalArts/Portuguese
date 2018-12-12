@@ -11,10 +11,10 @@ description: >-
 keywords: 'academic offerings, minor, latin america, brazil'
 # custom variables
 feature: true
-feature-image: 
+feature-image: null
 feature-title: A Globally Minded Minor: Focusing on Brazil, Portuguese, the Lusophone World, and
 increasing the credentials of Spanish speakers.
-promotion-table: true
+promotion-table: true   
 ---
 The Portuguese Minor is designed for students with two principle goals in mind: for students who wish to develop strong language and professional skills, and a critical awareness of Brazilian, Portuguese and Luso-African cultures. Today Brazil constitutes Latin America’s largest and fastest growing economy. With the World Cup (2014) and Olympics (2016), student demand for Brazilian language and culture courses at Temple and Universities across the nation has seen a sizeable increase. Within the past decade, Philadelphia itself has seen a large Brazilian population flock to the Northeast of the city, establishing a community of over 15,000 with flourishing local businesses.  There is a clear need for Portuguese speakers in the United States. Whether students' interests lie in Latin American Studies, visual arts, music, media, literature, international business, foreign relations, or the African diaspora, the Portuguese Minor is globally minded.  We believe undergraduate Spanish students can quickly learn Portuguese and increase their job credentials. Finally, our Minor provides excellent language instruction through a variety of cultural contexts. Bem-vindos!
 
