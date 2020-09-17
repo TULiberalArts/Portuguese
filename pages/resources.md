@@ -22,7 +22,7 @@ Temple University Spanish and Portuguese students have abundant resources to enh
 - Latin American Studies Semester (LASS): [Patricia Moore-Martinez](mailto:pmoore04@temple.edu) (Program Director)
 - Study Abroad: [Augusto Lorenzino](mailto:augusto.lorenzino@temple.edu) and [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
 
-**Tutoring:** [Renata Pontes](mailto:tuh34211@temple.edu)
+**Tutoring:** [Renata Pontes De Queiroz](mailto:tuh34211@temple.edu)
 
 ## Newsletter Archive
 - [Newsletter Vol. 1, No. 1, September 2015](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=b3f8dd0355)
